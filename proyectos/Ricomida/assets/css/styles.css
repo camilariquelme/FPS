@@ -1,0 +1,55 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+.card-title {
+    cursor: pointer;
+}
+#newsletter {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+.btn-custom {
+    background-color: #6c757d;
+    color: white;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #5a6268;
+    color: white;
+}
+.btn-custom-secondary {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    border: 1px solid #6c757d;
+}
+.btn-custom-secondary:hover {
+    background-color: #e2e6ea;
+    color: #6c757d;
+}
+
+/* Carousel adjustment */
+.carousel-item .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

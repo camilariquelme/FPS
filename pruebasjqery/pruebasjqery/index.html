@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Proyecto jQuery</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>Proyecto con jQuery</h1>
+    </header>
+    <main>
+      <section id="content">
+        <h2>Eventos y Métodos de jQuery</h2>
+        <button id="show-message">Mostrar Mensaje</button>
+        <div id="message" class="hidden">Hola, este es un mensaje oculto.</div>
+        <button id="toggle-image">Mostrar/Ocultar Imagen</button>
+        <img id="logo" src="assets/logo.png" alt="Logo" class="hidden" />
+        <button id="animate-div">Animar Div</button>
+        <div id="anim-div" class="box"></div>
+      </section>
+      <section id="form-section">
+        <h2>Formulario</h2>
+        <form id="my-form">
+          <label for="name">Nombre:</label>
+          <input type="text" id="name" name="name" />
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" />
+          <button type="submit">Enviar</button>
+        </form>
+        <div id="form-result" class="hidden"></div>
+      </section>
+      <section id="extra-section">
+        <h2>Sección Extra</h2>
+        <button id="append-text">Agregar Texto</button>
+        <div id="text-container"></div>
+        <button id="clone-button">Clonar Botón</button>
+        <div id="button-container">
+          <button class="clonable">Botón Clonable</button>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>ejemplo</p>
+    </footer>
+  </body>
+</html>

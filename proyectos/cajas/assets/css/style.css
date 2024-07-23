@@ -1,0 +1,20 @@
+
+
+
+
+
+#Proxima-Charla {    
+    padding: 30px;
+    color: white;
+    }
+#Proxima-Charla .wrapper {
+    width: 1000px;
+    margin: auto;
+    }
+.wrapper img {
+    width: 25%;
+    }
+.wrapper img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+    }

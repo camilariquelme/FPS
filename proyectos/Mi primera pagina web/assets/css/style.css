@@ -1,0 +1,79 @@
+/*CONFIGURACION GENERAL*/
+
+/*barra de navegacion*/
+
+/*body*/
+body{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman';
+
+}
+
+/*nav*/
+nav{
+    background-color: plum;
+    color: blueviolet;
+    text-align: start;
+    font-size: 26px;
+}
+nav ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+
+/*header*/
+
+header{
+    background-image: url("../img/bg-hero.png");
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Open Sans ;
+    text-shadow: 0px 3px 6px black;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    
+}
+
+/* Ubicación */
+
+#Ubicacion {
+    padding: 150px;
+}
+
+#Ubicacion h2 {
+    font-size: 45px;
+    margin: 40px 0px 20px 0px;
+}
+
+#Ubicacion p {
+    font-size: 25px;
+}
+
+#Proxima-Charla {
+    background: #a4452c;
+    padding: 100px;
+    color: white;
+    text-align: left;
+    }
+#Proxima-Charla .wrapper {
+    width: 800px;
+    margin: auto;
+    }
+
+.wrapper img {
+    width: 25%;
+    }
+.wrapper .texto {
+    width: 70%;
+    margin-left: 4%;
+    }
+.wrapper img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+    }
+
+
+
