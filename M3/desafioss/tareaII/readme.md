@@ -57,19 +57,21 @@ Este proyecto contiene la solución a tres desafíos relacionados con estructura
 ## Instalación del Proyecto
 
 1. Clonar el repositorio:
-    ```bash
-    git clone <URL_del_repositorio>
-    ```
+      ```bash
+      git clone <https://github.com/camilariquelme/FPS/tree/ce69dbcb61944958abc5d30653c37a092c392269/M3/desafioss/tarea%20II>
+      ```
 
 2. Ingresar a la carpeta del proyecto:
-    ```bash
-    cd nombre-del-proyecto
-    ```
+      ```bash
+      cd tareaII
+      ```
 
 3. Ejecutar el script deseado:
-    ```bash
-    python <nombre_del_script.py>
-    ```
+      ```bash
+      python <filtro.py>
+      python <ong.py>
+      python <velocidad.py>
+      ```
 
 ## Autor
 
