@@ -32,19 +32,19 @@ Uso:
 
 1. Clonar el repositorio:
       ```bash
-      git clone <https://github.com/camilariquelme/FPS/tree/ce69dbcb61944958abc5d30653c37a092c392269/M3/desafioss/tarea%20II>
+      git clone <https://github.com/camilariquelme/FPS/tree/079f0c08a29f9b0ba0a1352b52c9551fab3167e4/M3/desafioss/sentenciasII>
       ```
 
 2. Ingresar a la carpeta del proyecto:
       ```bash
-      cd tareaII
+      cd sentenciasII
       ```
 
 3. Ejecutar el script deseado:
       ```bash
-      python <filtro.py>
-      python <ong.py>
-      python <velocidad.py>
+      python <mayor_a.py>
+      python <primeros_auxilios.py>
+      python <fuerza_bruta.py>
       ```
 
 
