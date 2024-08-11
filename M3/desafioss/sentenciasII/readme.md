@@ -28,9 +28,25 @@ Uso:
 
 ## Instrucciones
 
-1. Clona este repositorio o descarga los archivos.
-2. Asegúrate de tener Python 3.x instalado en tu sistema.
-3. Ejecuta cada programa según las instrucciones de uso proporcionadas arriba.
+## Instalación del Proyecto
+
+1. Clonar el repositorio:
+      ```bash
+      git clone <https://github.com/camilariquelme/FPS/tree/ce69dbcb61944958abc5d30653c37a092c392269/M3/desafioss/tarea%20II>
+      ```
+
+2. Ingresar a la carpeta del proyecto:
+      ```bash
+      cd tareaII
+      ```
+
+3. Ejecutar el script deseado:
+      ```bash
+      python <filtro.py>
+      python <ong.py>
+      python <velocidad.py>
+      ```
+
 
 ## Notas adicionales
 
@@ -38,3 +54,6 @@ Uso:
 - `primeros_auxilios.py` es una aplicación interactiva que requiere entrada del usuario en tiempo real.
 - `fuerza_bruta.py` solicitará al usuario que ingrese una contraseña para probar.
 
+## Autor
+
+- [Camila Riquelme](https://github.com/camilariquelme)
